@@ -1,0 +1,3 @@
+link do meu repositorio do git : https://github.com/Parasitamrr/dio-desafio-primeiro-repositorio.git
+o git ajuda a organizar os arquivos
+
